@@ -1,6 +1,15 @@
-{
-  "name": "EcoHome 1-2-3 Panorama",
-  "description": "Toàn cảnh dự án và quỹ căn hộ đang rao bán tại EcoHome 1, 2 và 3 - Bắc Từ Liêm, Hà Nội.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
+[
+  { "username": "ád", "password": "zxczxc", "date": "31/12/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
+  { "username": "noname", "password": "zxczxczxc", "date": "04/09/2099", "role": "1,2,3,5,6,7,8,9,10,11,12" },
+  { "username": "qkongvan", "password": "zxczxc", "date": "31/12/2099", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
+  { "username": "tiendungai", "password": "123456", "date": "04/09/2027", "role": "1,2,3,5,6,7,8" },
+  { "username": "vantran", "password": "123456", "date": "04/09/2099", "role": "1,2,3,5,6,7,8" },
+  { "username": "ducnghia", "password": "123456", "date": "04/09/2099", "role": "1,2,3,5,6,7,8" },
+  { "username": "bokinhvan", "password": "123456", "date": "04/09/2099", "role": "1,2,3,5,6,7,8,9" },
+  { "username": "ngoccau", "password": "123456", "date": "04/09/2099", "role": "1,2,3,5,6,7,8" },
+  { "username": "ivory", "password": "zxczxc", "date": "31/12/2026", "role": "1,2,3,5,6,7,8,9" },
+  { "username": "mskai", "password": "zxczxc", "date": "30/05/2027", "role": "1,2,3,5,6,7,8,9" },
+  { "username": "linhvan", "password": "zxczxc", "date": "30/10/2027", "role": "1,2,3,5,6,7,8,9" },
+  { "username": "7day", "password": "123456", "date": "23/09/2026", "role": "1,2,3,5,6,7,8,9" },
+  { "username": "demo", "password": "123456", "date": "02/10/2026", "role": "1,2,3,5,6,7,8,4,9"}
+]
