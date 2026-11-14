@@ -1,6 +1,4 @@
-window.__APP_METADATA__ = {
-  version: "1.0.0",
-  styles: [
+window.metadata = [
   { "username": "ád", "password": "zxczxc", "date": "31/12/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "noname", "password": "zxczxczxc", "date": "04/09/2099", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "qkongvan", "password": "zxczxc", "date": "31/12/2099", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
@@ -20,8 +18,7 @@ window.__APP_METADATA__ = {
   { "username": "thekv", "password": "123456", "date": "05/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "hoangqiop", "password": "123456", "date": "05/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "zxc1", "password": "zxczxc", "date": "25/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
-  { "username": "demo", "password": "123456", "date": "21/10/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12"}
-  ],
-  defaultAspectRatio: "16:9"
-};
+  { "username": "demo1", "password": "123456", "date": "21/10/2027", "role": "1,2,3,4,5,6,7,8,9,10,11,12"}
+];
+
 
