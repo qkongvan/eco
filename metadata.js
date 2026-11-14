@@ -19,7 +19,7 @@ window.__APP_METADATA__ = {
   { "username": "hoangngoc", "password": "zxczxc", "date": "25/04/2027", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "thekv", "password": "123456", "date": "05/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "hoangqiop", "password": "123456", "date": "05/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
-  { "username": "zxczxc1", "password": "zxczxc", "date": "05/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
+  { "username": "zxc1", "password": "zxczxc", "date": "25/11/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12" },
   { "username": "demo", "password": "123456", "date": "21/10/2026", "role": "1,2,3,4,5,6,7,8,9,10,11,12"}
   ],
   defaultAspectRatio: "16:9"
